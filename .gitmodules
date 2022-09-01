@@ -24,3 +24,6 @@
 [submodule "hdl_tutorial/casper_dspdevel"]
 	path = hdl_tutorial/casper_dspdevel
 	url = https://github.com/talonmyburgh/casper_dspdevel.git
+[submodule "casper_dspdevel"]
+	path = casper_dspdevel
+	url = https://github.com/talonmyburgh/casper_dspdevel.git
